@@ -1,1 +1,1 @@
-# Paradigmas-de-programaci-n-UTN
+# Paradigmas-de-programacion-UTN
